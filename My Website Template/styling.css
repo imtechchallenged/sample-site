@@ -1,0 +1,42 @@
+body {
+
+     background :black ;
+	  color : white
+	 }
+	 
+	 
+	
+	 a {
+		color :grey;
+		text-decoration: none;
+		font-size: 20pt;
+		font-family:monospace;
+	 }
+	 
+	 a:hover{
+		 color:grey;
+		 background: white;
+		 text-decoration: none;
+	 }
+	 
+	 .redlink:hover{
+		color:white;
+        background:red;
+	 }		
+	 
+	 h1 {
+		 font-family:monospace;
+		 font-size :80pt;
+	 }
+	 
+	 .indent {
+		margin-left:15px;
+	 }
+	 
+	 .gap_below {
+		margin-bottom:25px;
+	 }
+	 
+	 p {
+		 font-size:16pt;
+	 }
